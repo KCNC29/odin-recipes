@@ -1,3 +1,3 @@
 # odin-recipes
 My T.O.P. Recipes Project-
-The goal of this project is to build a basic recipe website. Additionally, I will practice my current HTML skills using the knowledge I have gained thusfar in my The Odin Project coursework. The skills I will demonstrate in this project include creating a new repository on GitHub, cloning the repository, practicing git commands (add, commit, and push), creating an HTML boilerplate, creating headings, creating relative links, 
+The goal of this project is to build a basic recipe website. Additionally, I will practice my current HTML skills using the knowledge I have gained thusfar in my The Odin Project coursework. The skills I will demonstrate in this project include: -Creating a new repository on GitHub -Cloning the repository -Using git commands (add, commit, and push) -Creating an HTML boilerplate -Creating headings -Creating relative links -Creating unordered and ordered lists 
