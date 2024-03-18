@@ -1,6 +1,6 @@
 # odin-recipes
-My T.O.P. Recipes Project-
-The goal of this project is to build a basic recipe website that will link to 3 recipes. Additionally, I will practice my current HTML skills using the knowledge I have gained thusfar in my The Odin Project coursework. 
+My T.O.P. Recipes Project
+<p>The goal of this project is to build a basic recipe website that will link to 3 recipes. Additionally, I will practice my current HTML skills using the knowledge I have gained thusfar in my "The Odin Project" coursework.</p> 
 <p>The skills I will demonstrate in this project include:</p>
    <ul> 
       <li>Creating a new repository on GitHub</li>
